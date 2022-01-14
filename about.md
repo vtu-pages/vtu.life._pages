@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/), and now visiting the [University of Oxford](https://www.ox.ac.uk/).
+Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
 
 * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary.pdf)**
 
