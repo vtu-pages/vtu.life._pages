@@ -22,7 +22,7 @@ Earlier, I just finished our project **Subnet Replacement Attack (SRA)**[[paper]
 
 ### News & Facts
 
-* 🎓 **Seeking opportunities for a Ph.D. study**
+* 🎓 **Seeking opportunities for a Ph.D./M.S. study**
 * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available!
 * 🔬 Currently working as a remote research intern @ [ALPS lab](https://www.alpslab.ai/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://www.alpslab.ai) at Penn State University
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
