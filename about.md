@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
 
-* 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary.pdf)**
+* 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)**
 
 <!-- My current research interest lies around secure, robust and reliable AI. The projects I am now working on and have finished involve neural network verification, certified and adversarial robustness, backdoor attacks and defenses. Building AI that makes human-like decisions attracts me, where robustness and security may be good perspectives to dive in. I have enthusiasm in explainable AI, out-of-distribution generalization, and potential ways to improve current models fundamentally. Yet, I'm always on my way looking for things that intrigue me, and tend to hold an open mind for whatever is coming. I (wish to) have fun doing research. -->
 
