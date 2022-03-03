@@ -23,7 +23,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 ### News & Facts
 
 * 🎓 **Seeking opportunities for a Ph.D./M.S. study**
-* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, MSML@CMU, MSCS@UCSD (updating).
+* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD (updating).
 * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022!
 * My 🍫-abs are visible!!! To lose fat, healthy diets are way more important than exercises.
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
