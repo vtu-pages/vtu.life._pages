@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
+Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). **I will be a ECE PhD candidate at Princeton in Sep 2022**. Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
 
 * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)**
 
@@ -22,10 +22,11 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 ### News & Facts
 
-* 🎓 **Seeking opportunities for a Ph.D./M.S. study**
-* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz (updating).
+* Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022!
+<!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
+* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz, MSCS@EPFL (updating).
 * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022!
-* My 🍫-abs are visible!!! To lose fat, healthy diets are way more important than exercises.
+* My 🍫-abs are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 * 🔬 Currently working as a remote research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
