@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). **I will be a ECE PhD candidate at Princeton in Sep 2022**. 
+Hello, I am **Tinghao Xie 谢廷浩**, (to be) a first year ECE PhD student at Princeton. I just received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -23,6 +23,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 ### News & Facts
 
+* 🎓 Graduated and received B.E. degree from ZJU!
 * 🛡️ Successfully defended my undergraduate thesis, ready for graduation~
 * Two submitted papers of backdoor attacks and defenses available:
   * 📖 [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/abs/2205.13613)
