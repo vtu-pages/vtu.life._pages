@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao Xie 谢廷浩**, (to be) a first year ECE PhD student at Princeton. I just received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a first year ECE PhD student at Princeton. I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/) in 2022.
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -23,13 +23,14 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 ### News & Facts
 
+* 🐯 Now officially a Ph.D. student in Princeton.
 * 🎓 Graduated and received B.E. degree from ZJU!
 * 🛡️ Successfully defended my undergraduate thesis, ready for graduation~
 * Two submitted papers of backdoor attacks and defenses available:
   * 📖 [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/abs/2205.13613)
   * 📖 [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/abs/2205.13616)
 * 🏆 Won the championship in Zhejiang University Body Building Competition (70kg level)!
-* 🐯 Will be a candidate of ECE Ph.D.@Princeton in Sep 2022!
+<!-- * 🐯 Will be a candidate of ECE Ph.D.@Princeton in Sep 2022! -->
 * My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
 * Our paper 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)!
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
