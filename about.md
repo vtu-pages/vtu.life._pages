@@ -32,7 +32,7 @@ Recently, I've been focusing on backdoor attacks and defenses. Our most recent w
   * 📖 [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/abs/2205.13616)
 * 🏆 Won the championship in Zhejiang University Body Building Competition (70kg level)!
 <!-- * 🐯 Will be a candidate of ECE Ph.D.@Princeton in Sep 2022! -->
-* My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
+* My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans. (Update in 2023: Losing it due to heavy workload and lack of exercise😫)
 * Our paper 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)!
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
 * 🏊‍ Enjoy swimming as an aerobic exercise.
