@@ -41,7 +41,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 📖 [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/)
 <br/>
-Xiangyu Qi*, Yi Zeng*, <b>Tinghao Xie*</b>, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
+Xiangyu Qi*, Yi Zeng*, **Tinghao Xie***, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
 <br/>
 *Under Review*
 <br/>
