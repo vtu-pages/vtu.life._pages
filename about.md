@@ -45,7 +45,7 @@ Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mitt
 <br/>
 *Under Review*
 <br/>
-<u>This work was <b>exclusively reported by</u> <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b><u>, and covered by many other social medias!</u>
+📰 This work was <b>exclusively reported by <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b>, and covered by many other social medias!
 
 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/abs/2308.12439)
 <br/>
