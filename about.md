@@ -41,11 +41,11 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 📖 [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/)
 <br/>
-Xiangyu Qi*, Yi Zeng*, **Tinghao Xie***, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
+Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
 <br/>
 *Under Review*
 <br/>
-<u>This work was <b>exclusively reported by <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b>, and covered by many other social medias!</u>
+<u>This work was <b>exclusively reported by</u> <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b><u>, and covered by many other social medias!</u>
 
 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/abs/2308.12439)
 <br/>
@@ -61,13 +61,13 @@ Xiangyu Qi, **Tinghao Xie**, Jiachen T. Wang, Tong Wu, Saeed Mahloujifar, Pratee
 
 📖 [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://www.usenix.org/conference/usenixsecurity23/presentation/qi)
 <br/>
-Xiangyu Qi*, **Tinghao Xie***, Yiming Li, Saeed Mahloujifar, Prateek Mittal
+Xiangyu Qi\*, **Tinghao Xie\***, Yiming Li, Saeed Mahloujifar, Prateek Mittal
 <br/>
 *ICLR 2023*
 
 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965)
 <br/>
-Xiangyu Qi*, **Tinghao Xie***, Ruizhe Pan, Jifeng Zhu, Yong Yang and Kai Bu
+Xiangyu Qi\*, **Tinghao Xie\***, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu
 <br/>
 *CVPR 2022 (oral)*
 
@@ -87,12 +87,12 @@ Xiangyu Qi*, **Tinghao Xie***, Ruizhe Pan, Jifeng Zhu, Yong Yang and Kai Bu
 * [2022/03] <s>My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.</s> (Update in 2023: Losing it due to heavy workload, wonderful food in Princeton student dinning halls, and lack of exercise😫)
 * [2022/03] Our paper 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)!
 * 🧗 Rock Climbing, Skiing, Open Water Diving, Basketball, Swimming, Billiards, Bowling...
-<!-- * Three papers of backdoor attacks and defenses:
-  * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/abs/2308.12439)
-  * 📖 [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/abs/2205.13613)
-  * 📖 [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/abs/2205.13616) -->
-<!-- * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
-* 🏋 Go gymming regularly. -->
+<!-- * Three papers of backdoor attacks and defenses: -->
+  <!-- * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/abs/2308.12439) -->
+  <!-- * 📖 [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/abs/2205.13613) -->
+  <!-- * 📖 [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/abs/2205.13616) -->
+<!-- * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :) -->
+<!-- * 🏋 Go gymming regularly. -->
 <!-- * 🔬 Currently working as a remote research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University. -->
 <!-- * Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCLA, MSCS@UCSD, MSCS@ETHz, MSCS@EPFL (updating). -->
 <!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
