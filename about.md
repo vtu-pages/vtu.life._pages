@@ -43,7 +43,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 <br/>
 Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
 <br/>
-*Under Review*
+*ICLR 2024 (oral)*
 <br/>
 📰 This work was <b>exclusively reported by <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b>, and covered by many other social medias!
 
@@ -51,7 +51,7 @@ Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mitt
 <br/>
 **Tinghao Xie**, Xiangyu Qi, Ping He, Yiming Li, Jiachen T. Wang, Prateek Mittal
 <br/>
-*Under Review*
+*ICLR 2024*
 
 📖 [Towards A Proactive ML Approach for Detecting Backdoor Poison Samples](https://www.usenix.org/conference/usenixsecurity23/presentation/qi)
 <br/>
@@ -77,6 +77,9 @@ Xiangyu Qi\*, **Tinghao Xie\***, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu
 ### News & Facts
 
 * 💼 **Seeking opportunities for research intern opportunities in industry!**
+* [2023/10] Two papers accepted by ICLR 2024:
+  * 📖 **Oral (Top 1.2%)** [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://openreview.net/forum?id=hTEGyKf0dZ)
+  * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)
 * [2023/10] Our preprint 🚨[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/) is available. It is exclusively reported by [📰New York Times](https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html) and covered by many other social medias!
 * [2023/06] Our paper 📖 [Towards A Proactive ML Approach for Detecting Backdoor Poison Samples](https://www.usenix.org/conference/usenixsecurity23/presentation/qi) is accepted by USENIX Security 2023!
 * [2023/01] Our paper 📖 [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) is accepted by ICLR 2023!
