@@ -10,7 +10,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD student at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -76,7 +76,7 @@ Xiangyu Qi\*, **Tinghao Xie\***, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu
 
 ### News & Facts
 
-* 💼 **Seeking opportunities for research intern opportunities in industry!**
+* [2024/05] Officially a PhD **candidate** now!
 * [2023/10] Two papers accepted by ICLR 2024:
   * 📖 **Oral (Top 1.2%)** [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://openreview.net/forum?id=hTEGyKf0dZ)
   * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)
