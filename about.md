@@ -92,14 +92,14 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
   * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)
 * [2023/10] Our preprint 🚨[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/) is available. It is exclusively reported by [📰New York Times](https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html) and covered by many other social medias!
 * I enjoy: 🧗 Rock Climbing, Skiing, Open Water Diving, Basketball, Swimming, Billiards, Bowling...
-<!-- * [2023/06] Our paper 📖 [Towards A Proactive ML Approach for Detecting Backdoor Poison Samples](https://www.usenix.org/conference/usenixsecurity23/presentation/qi) is accepted by USENIX Security 2023!
-* [2023/01] Our paper 📖 [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) is accepted by ICLR 2023!
-* [2022/08] 🐯 Now officially a Ph.D. student in Princeton.
-* [2022/07] 🎓 Graduated and received B.E. degree from ZJU!
-* [2022/06] 🛡️ Successfully defended my undergraduate thesis, ready for graduation~
-* [2022/05] 🏆 Won the championship in Zhejiang University Body Building Competition (70kg level)!
-* [2022/03] <s>My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.</s> (Update in 2023: Losing it due to heavy workload, wonderful food in Princeton student dinning halls, and lack of exercise😫)
-* [2022/03] Our paper 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)! -->
+<!-- * [2023/06] Our paper 📖 [Towards A Proactive ML Approach for Detecting Backdoor Poison Samples](https://www.usenix.org/conference/usenixsecurity23/presentation/qi) is accepted by USENIX Security 2023! -->
+<!-- * [2023/01] Our paper 📖 [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) is accepted by ICLR 2023! -->
+<!-- * [2022/08] 🐯 Now officially a Ph.D. student in Princeton. -->
+<!-- * [2022/07] 🎓 Graduated and received B.E. degree from ZJU! -->
+<!-- * [2022/06] 🛡️ Successfully defended my undergraduate thesis, ready for graduation~ -->
+<!-- * [2022/05] 🏆 Won the championship in Zhejiang University Body Building Competition (70kg level)! -->
+<!-- * [2022/03] <s>My 🍫-abs (6 packs) are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.</s> (Update in 2023: Losing it due to heavy workload, wonderful food in Princeton student dinning halls, and lack of exercise😫) -->
+<!-- * [2022/03] Our paper 📖 [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)! -->
 <!-- * Three papers of backdoor attacks and defenses: -->
   <!-- * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://arxiv.org/abs/2308.12439) -->
   <!-- * 📖 [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/abs/2205.13613) -->
