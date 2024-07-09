@@ -10,7 +10,7 @@ redirect_from:
 
 
 <style>
-  .pub_button button {
+  button.pub_button {
     /* margin: calc(20vw / 100); */
     margin: 0.5em;
     padding-left:  calc(40vw / 100);
@@ -40,14 +40,14 @@ redirect_from:
     touch-action: manipulation;
   }
 
-  .pub_button button:hover {
+  button.pub_button:hover {
     background-position: right center;
     /* change the direction of the change here */
     color: #fff;
     text-decoration: none;
   }
 
-  .pub_button button:active {
+  button.pub_button:active {
     transform: scale(0.95);
   }
 </style>
