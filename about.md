@@ -10,7 +10,7 @@ redirect_from:
 
 
 <style>
-  button {
+  .pub_button button {
     /* margin: calc(20vw / 100); */
     margin: 0.5em;
     padding-left:  calc(40vw / 100);
@@ -40,14 +40,14 @@ redirect_from:
     touch-action: manipulation;
   }
 
-  button:hover {
+  .pub_button button:hover {
     background-position: right center;
     /* change the direction of the change here */
     color: #fff;
     text-decoration: none;
   }
 
-  button:active {
+  .pub_button button:active {
     transform: scale(0.95);
   }
 </style>
@@ -119,45 +119,45 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 📖 [SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors](https://sorry-bench.github.io/)
 <br/>
-**Tinghao Xie***, Xiangyu Qi*, Yi Zeng*, Yangsibo Huang*, Udari Madhushani Sehwag, Kaixuan Huang, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal
+**Tinghao Xie\***, Xiangyu Qi\*, Yi Zeng\*, Yangsibo Huang\*, Udari Madhushani Sehwag, Kaixuan Huang, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal
 <br/>
 *Preprint (Under Review)*
 <br/>
 <a href="https://sorry-bench.github.io" style="text-decoration:none">
-  <button>🏠Website </button>
+  <button class="pub_button">🏠Website </button>
 </a>
 <a href="http://arxiv.org/abs/2406.14598" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://huggingface.co/datasets/sorry-bench/sorry-bench-202406" style="text-decoration:none">
-  <button>📚Dataset </button>
+  <button class="pub_button">📚Dataset </button>
 </a>
 <a href="https://github.com/SORRY-Bench/SORRY-Bench" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 <a href="https://huggingface.co/datasets/sorry-bench/sorry-bench-human-judgment-202406" style="text-decoration:none">
-  <button>🧑‍⚖️Human Judgment Dataset </button>
+  <button class="pub_button">🧑‍⚖️Human Judgment Dataset </button>
 </a>
 <a href="https://huggingface.co/sorry-bench/ft-mistral-7b-instruct-v0.2-sorry-bench-202406" style="text-decoration:none">
-  <button>🤖Judge LLM </button>
+  <button class="pub_button">🤖Judge LLM </button>
 </a>
 
 
 
 📖 [Fantastic Copyrighted Beasts and How (Not) to Generate Them](https://copycat-eval.github.io/)
 <br/>
-Luxi He*, Yangsibo Huang*, Weijia Shi*, **Tinghao Xie**, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson
+Luxi He\*, Yangsibo Huang\*, Weijia Shi\*, **Tinghao Xie**, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson
 <br/>
 *Preprint (Under Review)*
 <br/>
 <a href="https://copycat-eval.github.io/" style="text-decoration:none">
-  <button>🏠Website </button>
+  <button class="pub_button">🏠Website </button>
 </a>
 <a href="https://arxiv.org/pdf/2406.14526" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/princeton-nlp/CopyCat" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -169,23 +169,23 @@ Xiangyu Qi, Yangsibo Huang, Yi Zeng, Edoardo Debenedetti, Jonas Geiping, Luxi He
 *Preprint (Under Review)*
 <br/>
 <a href="https://arxiv.org/pdf/2405.19524" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 
 📖 [Assessing the brittleness of safety alignment via pruning and low-rank modifications](https://arxiv.org/abs/2402.05162)
 <br/>
-Boyi Wei*, Kaixuan Huang*, Yangsibo Huang*, **Tinghao Xie**, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
+Boyi Wei\*, Kaixuan Huang\*, Yangsibo Huang\*, **Tinghao Xie**, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
 <br/>
 *ICML 2024*
 <br/>
 <a href="https://boyiwei.com/alignment-attribution/" style="text-decoration:none">
-  <button>🏠Website </button>
+  <button class="pub_button">🏠Website </button>
 </a>
 <a href="https://arxiv.org/pdf/2402.05162" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/boyiwei/alignment-attribution-code" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -198,16 +198,16 @@ Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mitt
 📰 This work was <b style="color: red">exclusively reported by <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b>, and covered by many other social medias!
 <br/>
 <a href="https://llm-tuning-safety.github.io/" style="text-decoration:none">
-  <button>🏠Website </button>
+  <button class="pub_button">🏠Website </button>
 </a>
 <a href="https://arxiv.org/pdf/2310.03693" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" style="text-decoration:none">
-  <button>📚Dataset </button>
+  <button class="pub_button">📚Dataset </button>
 </a>
 <a href="https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -218,10 +218,10 @@ Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mitt
 *ICLR 2024*
 <br/>
 <a href="https://arxiv.org/pdf/2308.12439" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/vtu81/backdoor-toolbox" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -232,10 +232,10 @@ Xiangyu Qi, **Tinghao Xie**, Jiachen T. Wang, Tong Wu, Saeed Mahloujifar, Pratee
 *USENIX Security 2023*
 <br/>
 <a href="https://www.usenix.org/system/files/usenixsecurity23-qi.pdf" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/Unispac/Fight-Poison-With-Poison" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -246,10 +246,10 @@ Xiangyu Qi\*, **Tinghao Xie\***, Yiming Li, Saeed Mahloujifar, Prateek Mittal
 *ICLR 2023*
 <br/>
 <a href="https://arxiv.org/pdf/2205.13613" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/Unispac/Circumventing-Backdoor-Defenses" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
@@ -260,10 +260,10 @@ Xiangyu Qi\*, **Tinghao Xie\***, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu
 *CVPR 2022 (oral)*
 <br/>
 <a href="https://arxiv.org/pdf/2111.12965" style="text-decoration:none">
-  <button>📑Paper </button>
+  <button class="pub_button">📑Paper </button>
 </a>
 <a href="https://github.com/Unispac/Subnet-Replacement-Attack" style="text-decoration:none">
-  <button>💻Github </button>
+  <button class="pub_button">💻Github </button>
 </a>
 
 
