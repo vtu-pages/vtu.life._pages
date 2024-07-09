@@ -30,7 +30,7 @@ redirect_from:
     color: white;
     border-radius: calc(60vw / 100);
     display: inline;
-    /* border: 2px solid black; */
+    border: 0px;
     font-weight: 500;
     box-shadow: 0px 0px 14px -7px #f09819;
     background-image: linear-gradient(45deg, #FF512F 0%, #F09819 51%, #FF512F 100%);
