@@ -54,7 +54,7 @@ redirect_from:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
 
-Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a 3rd year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -68,6 +68,7 @@ Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD candidate at [Princ
 I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically:
 
 - I am currently working around large (language / vision) model safety and security.
+  - Been working on multi-modality safety and security. Draft will be shared soon!
   - ✨ Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
   - How easy can current text-to-image systems generate **copyrighted** content (and how to prevent them from such generations)? Check our 🐱[**CopyCat**](https://copycat-eval.github.io/) project.
   - "AI safety" and "AI security" are different! See our position paper 📖 [AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524).
