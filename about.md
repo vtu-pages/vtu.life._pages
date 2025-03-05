@@ -52,7 +52,7 @@ redirect_from:
   }
 </style>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life) -->
 
 Hello, I am **Tinghao Xie 谢廷浩**, a 3rd year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
 
@@ -67,8 +67,11 @@ Hello, I am **Tinghao Xie 谢廷浩**, a 3rd year ECE PhD candidate at [Princeto
 
 I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically:
 
-- I am currently working around large (language / vision) model safety and security.
-  - Been working on multi-modality safety and security. Draft will be shared soon!
+- I currently work around large (language / vision) model safety and security.
+  
+  - I'm recently working on multi-modality safety and security. *We all know generative AI has safety issues, but can we utilize generative AI tools for better safety?* In our recent [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers_with_Generative_AI_Tools.pdf), we show that **GenAI tools like T2I models and LLMs can help us automatically identify vulnerabilities of (NSFW) image classifiers!**
+    - 🔍Our red-teaming results indicate that current NSFW image classifiers can be fooled by certain benign semantical shifts -- e.g., GPT-4o cannot recognize nude content when the image atmosphere appears misty serene.
+    - 🚨Such issues directly translate to safety vulnerabilities of commercial T2I products -- we show it's possible to rewrite NSFW prompts (by adding certain benign elements) and lure DALLE-3 (or ChatGPT) to generate nude images!
   - ✨ Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
   - How easy can current text-to-image systems generate **copyrighted** content (and how to prevent them from such generations)? Check our 🐱[**CopyCat**](https://copycat-eval.github.io/) project.
   - "AI safety" and "AI security" are different! See our position paper 📖 [AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524).
@@ -86,6 +89,8 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 ### News & Facts
 
+* [2025/03] Looking for internship opportunities, 2025 🏝️summer or 🍂fall!
+* [2025/01] Three papers accepted by ICLR 2025!
 * [2024/05] I'm interning at Meta GenAI (Menlo Park, CA) this summer 🏖️. Feel free to reach out if you are nearby!
 * [2024/05] Officially a PhD **candidate** now!
 * [2023/10] Two papers accepted by ICLR 2024:
@@ -118,11 +123,23 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 <!-- > Click [here](publications) (or the "[Publications/Manuscripts](publications)" button in the nav bar) for more details! -->
 
 
+📖 [Red-teaming NSFW Image Classifiers with Generative AI Tools](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers_with_Generative_AI_Tools.pdf)
+<br/>
+**Tinghao Xie**, Yueqi Xie, Alireza Zareian, Shuming Hu, Felix Juefei-Xu, Xiaowen Lin, Ankit Jain, Prateek Mittal, Li Chen
+<br/>
+*Preprint (Under Review)*
+<br/>
+<a href="https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers_with_Generative_AI_Tools.pdf" style="text-decoration:none">
+  <button class="pub_button">📑Paper </button>
+</a>
+
+
+
 📖 [SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors](https://sorry-bench.github.io/)
 <br/>
 **Tinghao Xie\***, Xiangyu Qi\*, Yi Zeng\*, Yangsibo Huang\*, Udari Madhushani Sehwag, Kaixuan Huang, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal
 <br/>
-*Preprint (Under Review)*
+*ICLR 2025*
 <br/>
 <a href="https://sorry-bench.github.io" style="text-decoration:none">
   <button class="pub_button">🏠Website </button>
@@ -145,11 +162,26 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 
 
+📖 [On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org/abs/2412.07097)
+<br/>
+Xiangyu Qi\*, Boyi Wei\*, Nicholas Carlini, Yangsibo Huang, **Tinghao Xie**, Luxi He, Matthew Jagielski, Milad Nasr, Prateek Mittal, Peter Henderson
+<br/>
+*ICLR 2025*
+<br/>
+<a href="https://arxiv.org/abs/2412.07097" style="text-decoration:none">
+  <button class="pub_button">📑Paper </button>
+</a>
+<a href="https://github.com/princeton-polaris-lab/Evaluating-Durable-Safeguards" style="text-decoration:none">
+  <button class="pub_button">💻Github </button>
+</a>
+
+
+
 📖 [Fantastic Copyrighted Beasts and How (Not) to Generate Them](https://copycat-eval.github.io/)
 <br/>
 Luxi He\*, Yangsibo Huang\*, Weijia Shi\*, **Tinghao Xie**, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson
 <br/>
-*Preprint (Under Review)*
+*ICLR 2025*
 <br/>
 <a href="https://copycat-eval.github.io/" style="text-decoration:none">
   <button class="pub_button">🏠Website </button>
