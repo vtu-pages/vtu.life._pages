@@ -70,7 +70,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 - I currently work around large (language / vision) model safety and security.
   
   - I'm recently working on multi-modality safety and security. *We all know generative AI has safety issues, but can we utilize generative AI tools for better safety?* In our recent [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers_with_Generative_AI_Tools.pdf), we show that **GenAI tools like T2I models and LLMs can help us automatically identify vulnerabilities of (NSFW) image classifiers!**
-    - 🔍Our red-teaming results indicate that current NSFW image classifiers can be fooled by certain benign semantical shifts -- e.g., GPT-4o cannot recognize nude content when the image atmosphere appears misty serene.
+    - 🔍Our red-teaming results indicate that current NSFW image classifiers can be fooled by context shifts of benign visual elements -- e.g., GPT-4o cannot recognize nude content when the image atmosphere appears misty serene.
     - 🚨Such issues directly translate to safety vulnerabilities of commercial T2I products -- we show it's possible to rewrite NSFW prompts (by adding certain benign elements) and lure DALLE-3 (or ChatGPT) to generate nude images!
   - ✨ Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
   - How easy can current text-to-image systems generate **copyrighted** content (and how to prevent them from such generations)? Check our 🐱[**CopyCat**](https://copycat-eval.github.io/) project.
