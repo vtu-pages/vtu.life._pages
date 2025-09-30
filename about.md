@@ -54,7 +54,9 @@ redirect_from:
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life) -->
 
-Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
+<button class="pub_button">🎯I'm looking for summer/spring/part-time <u>internship</u> and/or <u>full-time</u> positions! </button>
+
+Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I was a research intern at Meta (GenAI). I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
