@@ -54,7 +54,7 @@ redirect_from:
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life) -->
 
-<button class="pub_button">🎯I'm looking for summer/spring/part-time <u>internship</u> and/or <u>full-time</u> positions! </button>
+<button class="pub_button">🎯I'm looking for <u>internship</u> and/or <u>full-time</u> positions! </button>
 
 Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I was a research intern at Meta (GenAI). I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
 
@@ -69,18 +69,22 @@ Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeto
 
 I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically:
 
-- I currently work around large (language / vision) model safety and security.
+- I analyze and break *safety / alignment / watermark* mechanisms in AI systems, particularly those built upon LLMs and T2I models.
+
   
-  - I'm recently working on safety and security problems in multi-modal systems. E.g., NSFW image classifiers are a typical safeguard for text-to-image (T2I) systems nowadays -- they check whether a generated image is safe and block anything NSFW. However, in our recent [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf):
-    - We show these classifiers can be systemtatically fooled when **benign visual elements of an image are shifted**. For instance, while a NSFW image of "🖼️*a nude person in an empty scene*" can be easily blocked by most NSFW classifiers, a stealthier one that depicts "🖼️*a nude person blending in a group of dressed people*" may evade detection.
-    - 🚨Alarmingly, we show these failures translate to real-world T2I(V) systems, including DALL-E 3, Sora, Gemini, and Grok, where bad users can rewrite NSFW prompts (by adding certain benign elements) to **jailbreak** these systems into generating nude images. For example, querying DALL-E 3 and Imagen 3 with prompts rewritten by our approach increases the chance of obtaining NSFW images from 0 to over 44%.
-  - ✨ Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
+  - My current work focuses on breaking image watermarks💦
+  - ✨ Just accpted by ACL 2026 (Findings): **Red-Teaming 🙈NSFW Image Classifiers as Text-to-Image Safeguards** [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf)
+  - Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
   - How easy can current text-to-image systems generate **copyrighted** content (and how to prevent them from such generations)? Check our 🐱[**CopyCat**](https://copycat-eval.github.io/) project.
   - "AI safety" and "AI security" are different! See our position paper 📖 [AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524).
   - [LLM safety is brittle🫙](https://boyiwei.com/alignment-attribution/) -- removing barely 3% parameter / 2.5% rank will compromise model safety.
   - Do you know 🚨*fine-tuning aligned LLM can compromise safety, even when users do not intend to?* Checkout our work on 🚨**LLM Fine-tuning Risks** [[website]](https://llm-tuning-safety.github.io/) [[paper]](https://arxiv.org/abs/2310.03693) [[code]](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety), which was exclusively reported on [**📰New York Times**](https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html)!
 - I also have extensive research experience on DNN backdoor attacks and defenses for CV models:
   - Check my [**📦backdoor-toolbox**](https://github.com/vtu81/backdoor-toolbox) @ Github, which has helped many backdoor researchers!
+
+<!-- - My recent work focused on safety and security problems in multi-modal systems. E.g., NSFW image classifiers are a typical safeguard for text-to-image (T2I) systems nowadays -- they check whether a generated image is safe and block anything NSFW. However, in our recent [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf): -->
+  <!-- - We show these classifiers can be systemtatically fooled when **benign visual elements of an image are shifted**. For instance, while a NSFW image of "🖼️*a nude person in an empty scene*" can be easily blocked by most NSFW classifiers, a stealthier one that depicts "🖼️*a nude person blending in a group of dressed people*" may evade detection. -->
+  <!-- - 🚨Alarmingly, we show these failures translate to real-world T2I(V) systems, including DALL-E 3, Sora, Gemini, and Grok, where bad users can rewrite NSFW prompts (by adding certain benign elements) to **jailbreak** these systems into generating nude images. For example, querying DALL-E 3 and Imagen 3 with prompts rewritten by our approach increases the chance of obtaining NSFW images from 0 to over 44%. -->
 <!-- To defense against backdoor attack at inference-time, we introduce a novel backdoor input detection method, by directly extracting the backdoor functionality to a backdoor expert model. Check our work **🛡️BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection** [[paper]](https://arxiv.org/abs/2308.12439) (preprint) for details! -->
 <!-- We proposes a proactive solution to identify backdoor poison samples in a poisoned training set in our work **🛡️Towards A Proactive ML Approach for Detecting Backdoor Poison Samples** [[paper]](https://www.usenix.org/conference/usenixsecurity23/presentation/qi) [[code]](https://github.com/Unispac/Fight-Poison-With-Poison/tree/master) (USENIX Security'23) . This is realized via a super intersting method named "Confusion Training" where we prevent an ML model from fitting the normal clean samples by deliberate mislabeling -- the resulting model can only fit the backdoor poison samples. -->
 <!-- Before that, our another work **🤔Revisiting the Assumption of Latent Separability for Backdoor Defenses** [[paper]](https://openreview.net/forum?id=_wSHsgrVali)[[code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses) (ICLR'23) studies the latent separation assumption made by state-of-the-art backdoor defenses, and designs adaptive attacks against such backdoor defenses. -->
@@ -91,7 +95,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 
 ### News & Facts
 
-* Looking for internship opportunities, 2026 🏝️summer or 🌸spring!
+* **Looking for internship and/or full-time job!**
 * [2025/01] Three papers accepted by ICLR 2025!
 * [2024/05] I'm interning at Meta GenAI (Menlo Park, CA) this summer 🏖️. Feel free to reach out if you are nearby!
 * [2024/05] Officially a PhD **candidate** now!
@@ -129,7 +133,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 <br/>
 **Tinghao Xie**, Yueqi Xie, Alireza Zareian, Shuming Hu, Felix Juefei-Xu, Xiaowen Lin, Ankit Jain, Prateek Mittal, Li Chen
 <br/>
-*Preprint (Under Review)*
+*ACL 2026 Findings*
 <br/>
 <a href="https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf" style="text-decoration:none">
   <button class="pub_button">📑Paper </button>
