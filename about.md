@@ -54,9 +54,9 @@ redirect_from:
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life) -->
 
-<button class="pub_button">🎯I'm looking for <u>internship</u> and/or <u>full-time</u> positions! </button>
+<button class="pub_button">🎯I'm looking for <u>full-time</u> positions! </button>
 
-Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). Previously, I was a research intern at Meta (GenAI). I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html), also a student researcher at TikTok. Previously, I was a research intern at Meta (GenAI). I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -65,13 +65,22 @@ Hello, I am **Tinghao Xie 谢廷浩**, a 4th year ECE PhD candidate at [Princeto
 
 <!-- I found the **robustness of machine learning** being both a “dark cloud” and an attractive perspective to work on. Specifically, my research interest could be described in two aspects: First, I intend to study and solve security concerns involving current non-robust deep learning models; Second, I would like to better understand AI’s behaviors and make their predictions more human-like through explainable and causal methods. In summary, I hope to fully explore the breadth and depth of **secure, robust, and reliable AI**. Yet, I'm always on my way looking for things that intrigue me, and tend to hold an open mind for whatever is coming. I (wish to) have fun doing research. -->
 
-### My Research
+### Research Interests
 
-I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically:
+<!-- I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically: -->
 
-- I analyze and break *safety / alignment / watermark* mechanisms in AI systems, particularly those built upon LLMs and T2I models.
+- I analyze and break *safety / alignment / watermark* mechanisms in AI systems -- particularly those built upon LLMs, VLMs, and T2I models.
+  - breaking security of text-to-image systems from end to end
+  - benchmarking safety refusal & safety durability of LLMs
+  - revealing how fine-tuning LLMs can compromise safety
+  - ... (copyright, hallucinations, AIGC watermarks)
+- I also aim to build *secure AI systems*, as well as *safer & more trustworthy foundation models*.
+  - mid-training VLMs to enhance visual knowledge
+  - fine-tuning VLMs for more robust safety detection
+  - securing AI systems against data poisoning and backdoor attacks
+  - ...
 
-  
+<!--   
   - My current work focuses on breaking image watermarks💦
   - ✨ Just accpted by ACL 2026 (Findings): **Red-Teaming 🙈NSFW Image Classifiers as Text-to-Image Safeguards** [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf)
   - Check out our new **LLM safety benchmark**, 🥺[**SORRY-Bench**](https://sorry-bench.github.io/) -- evaluate LLM safety refusal systematically!
@@ -79,8 +88,8 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
   - "AI safety" and "AI security" are different! See our position paper 📖 [AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524).
   - [LLM safety is brittle🫙](https://boyiwei.com/alignment-attribution/) -- removing barely 3% parameter / 2.5% rank will compromise model safety.
   - Do you know 🚨*fine-tuning aligned LLM can compromise safety, even when users do not intend to?* Checkout our work on 🚨**LLM Fine-tuning Risks** [[website]](https://llm-tuning-safety.github.io/) [[paper]](https://arxiv.org/abs/2310.03693) [[code]](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety), which was exclusively reported on [**📰New York Times**](https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html)!
-- I also have extensive research experience on DNN backdoor attacks and defenses for CV models:
-  - Check my [**📦backdoor-toolbox**](https://github.com/vtu81/backdoor-toolbox) @ Github, which has helped many backdoor researchers!
+- I also have extensive research experience on security of DNN models:
+  - Check my [**📦backdoor-toolbox**](https://github.com/vtu81/backdoor-toolbox) @ Github, which has helped many backdoor researchers! -->
 
 <!-- - My recent work focused on safety and security problems in multi-modal systems. E.g., NSFW image classifiers are a typical safeguard for text-to-image (T2I) systems nowadays -- they check whether a generated image is safe and block anything NSFW. However, in our recent [[paper]](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf): -->
   <!-- - We show these classifiers can be systemtatically fooled when **benign visual elements of an image are shifted**. For instance, while a NSFW image of "🖼️*a nude person in an empty scene*" can be easily blocked by most NSFW classifiers, a stealthier one that depicts "🖼️*a nude person blending in a group of dressed people*" may evade detection. -->
@@ -93,7 +102,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 <!-- Even earlier during my undergrad years (my first research experience actually lol), I worked with [Prof. Jianhai Chen](https://person.zju.edu.cn/en/cjhe), designed and implemented **Enchecap**[[code]](https://github.com/vtu81/Enchecap) -- an encrypted (enclave-based) heterogeneous calculation protocol. -->
 
 
-### News & Facts
+<!-- ### News & Facts
 
 * **Looking for internship and/or full-time job!**
 * [2025/01] Three papers accepted by ICLR 2025!
@@ -103,7 +112,7 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
   * 📖 **Oral (Top 1.2%)** [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://openreview.net/forum?id=hTEGyKf0dZ)
   * 📖 [BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)
 * [2023/10] Our preprint 🚨[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/) is available. It is exclusively reported by [📰New York Times](https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html) and covered by many other social medias!
-* I enjoy: 🧗 Rock Climbing, Skiing, Open Water Diving, Basketball, Swimming, Billiards, Bowling...
+* I enjoy: 🧗 Rock Climbing, Skiing, Open Water Diving, Basketball, Swimming, Billiards, Bowling... -->
 <!-- * [2023/06] Our paper 📖 [Towards A Proactive ML Approach for Detecting Backdoor Poison Samples](https://www.usenix.org/conference/usenixsecurity23/presentation/qi) is accepted by USENIX Security 2023! -->
 <!-- * [2023/01] Our paper 📖 [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) is accepted by ICLR 2023! -->
 <!-- * [2022/08] 🐯 Now officially a Ph.D. student in Princeton. -->
@@ -129,13 +138,13 @@ I hope to fully explore the breadth and depth of **safe, secure, robust, and rel
 <!-- > Click [here](publications) (or the "[Publications/Manuscripts](publications)" button in the nav bar) for more details! -->
 
 
-📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf)
+📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://aclanthology.org/2026.findings-acl.506/)
 <br/>
 **Tinghao Xie**, Yueqi Xie, Alireza Zareian, Shuming Hu, Felix Juefei-Xu, Xiaowen Lin, Ankit Jain, Prateek Mittal, Li Chen
 <br/>
 *ACL 2026 Findings*
 <br/>
-<a href="https://tinghaoxie.com/files/Red_teaming_NSFW_Image_Classifiers.pdf" style="text-decoration:none">
+<a href="https://aclanthology.org/2026.findings-acl.506/" style="text-decoration:none">
   <button class="pub_button">📑Paper </button>
 </a>
 
