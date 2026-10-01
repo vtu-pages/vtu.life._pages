@@ -56,7 +56,7 @@ redirect_from:
 
 <button class="pub_button">🎯I'm looking for <u>full-time</u> positions! </button>
 
-Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html), also a student researcher at TikTok. Previously, I was a research intern at Meta (GenAI). I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). I was also a student researcher at *TikTok* and at *Meta*. Previously, I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
 
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 <!-- * 📋 My **[[CV/resume]](/files/CV_TinghaoXie.pdf) [[Research Summary Slides]](/files/research_summary_full.pdf)** -->
@@ -65,20 +65,19 @@ Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Prince
 
 <!-- I found the **robustness of machine learning** being both a “dark cloud” and an attractive perspective to work on. Specifically, my research interest could be described in two aspects: First, I intend to study and solve security concerns involving current non-robust deep learning models; Second, I would like to better understand AI’s behaviors and make their predictions more human-like through explainable and causal methods. In summary, I hope to fully explore the breadth and depth of **secure, robust, and reliable AI**. Yet, I'm always on my way looking for things that intrigue me, and tend to hold an open mind for whatever is coming. I (wish to) have fun doing research. -->
 
-### Research Interests
+<!-- ### Research Interests -->
 
 <!-- I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically: -->
 
-- I analyze and break *safety / alignment / watermark* mechanisms in AI systems -- particularly those built upon LLMs, VLMs, and T2I models.
+- I analyze and attack *safety / alignment / watermark* mechanisms in AI systems built upon LLMs, VLMs, and T2I models.
   - breaking security of text-to-image systems from end to end
   - benchmarking safety refusal & safety durability of LLMs
   - revealing how fine-tuning LLMs can compromise safety
-  - ... (copyright, hallucinations, AIGC watermarks)
-- I also aim to build *secure AI systems*, as well as *safer & more trustworthy foundation models*.
+  - eliciting copyrighted content, removing AIGC watermarks, etc.
+- I aim to build *safer & more trustworthy foundation models* + *securer AI systems*.
   - mid-training VLMs to enhance visual knowledge
   - fine-tuning VLMs for more robust safety detection
   - securing AI systems against data poisoning and backdoor attacks
-  - ...
 
 <!--   
   - My current work focuses on breaking image watermarks💦
@@ -133,12 +132,74 @@ Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Prince
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 
 
-### Publications/Manuscripts
+### Selected Research
+
+📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://aclanthology.org/2026.findings-acl.506/)
+<br/>
+**Tinghao Xie**, Yueqi Xie, Alireza Zareian, Shuming Hu, Felix Juefei-Xu, Xiaowen Lin, Ankit Jain, Prateek Mittal, Li Chen
+<br/>
+*ACL 2026 Findings*
+<br/>
+<a href="https://aclanthology.org/2026.findings-acl.506/" style="text-decoration:none">
+  <button class="pub_button">📑Paper </button>
+</a>
+
+
+
+📖 [SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors](https://sorry-bench.github.io/)
+<br/>
+**Tinghao Xie\***, Xiangyu Qi\*, Yi Zeng\*, Yangsibo Huang\*, Udari Madhushani Sehwag, Kaixuan Huang, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal
+<br/>
+*ICLR 2025*
+<br/>
+<a href="https://sorry-bench.github.io" style="text-decoration:none">
+  <button class="pub_button">🏠Website </button>
+</a>
+<a href="http://arxiv.org/abs/2406.14598" style="text-decoration:none">
+  <button class="pub_button">📑Paper </button>
+</a>
+<a href="https://huggingface.co/datasets/sorry-bench/sorry-bench-202406" style="text-decoration:none">
+  <button class="pub_button">📚Dataset </button>
+</a>
+<a href="https://github.com/SORRY-Bench/SORRY-Bench" style="text-decoration:none">
+  <button class="pub_button">💻Github </button>
+</a>
+<a href="https://huggingface.co/datasets/sorry-bench/sorry-bench-human-judgment-202406" style="text-decoration:none">
+  <button class="pub_button">🧑‍⚖️Human Judgment Dataset </button>
+</a>
+<a href="https://huggingface.co/sorry-bench/ft-mistral-7b-instruct-v0.2-sorry-bench-202406" style="text-decoration:none">
+  <button class="pub_button">🤖Judge LLM </button>
+</a>
+
+
+📖 [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io/)
+<br/>
+Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal$^†$, Peter Henderson$^†$
+<br/>
+*ICLR 2024 (oral)*
+<br/>
+📰 This work was <b style="color: red">exclusively reported by <a href="https://www.nytimes.com/2023/10/19/technology/guardrails-artificial-intelligence-open-source.html">New York Times</a></b>, and covered by many other social medias!
+<br/>
+<a href="https://llm-tuning-safety.github.io/" style="text-decoration:none">
+  <button class="pub_button">🏠Website </button>
+</a>
+<a href="https://arxiv.org/pdf/2310.03693" style="text-decoration:none">
+  <button class="pub_button">📑Paper </button>
+</a>
+<a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" style="text-decoration:none">
+  <button class="pub_button">📚Dataset </button>
+</a>
+<a href="https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety" style="text-decoration:none">
+  <button class="pub_button">💻Github </button>
+</a>
+
+
+<!-- ### Publications/Manuscripts -->
 
 <!-- > Click [here](publications) (or the "[Publications/Manuscripts](publications)" button in the nav bar) for more details! -->
 
 
-📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://aclanthology.org/2026.findings-acl.506/)
+<!-- 📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://aclanthology.org/2026.findings-acl.506/)
 <br/>
 **Tinghao Xie**, Yueqi Xie, Alireza Zareian, Shuming Hu, Felix Juefei-Xu, Xiaowen Lin, Ankit Jain, Prateek Mittal, Li Chen
 <br/>
@@ -312,7 +373,7 @@ Xiangyu Qi\*, **Tinghao Xie\***, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu
 </a>
 <a href="https://github.com/Unispac/Subnet-Replacement-Attack" style="text-decoration:none">
   <button class="pub_button">💻Github </button>
-</a>
+</a> -->
 
 
 
