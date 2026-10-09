@@ -3,58 +3,17 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
+research_map: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 
-<style>
-  button.pub_button {
-    /* margin: calc(20vw / 100); */
-    margin: 0.5em;
-    padding-left:  calc(40vw / 100);
-    padding-right:  calc(40vw / 100);
-    padding-bottom: calc(0vw / 100);
-    text-align: center;
-    font-size: 12px;
-    height: 25px;
-    /* padding-left:  calc(40vw / 100);
-    padding-right:  calc(40vw / 100);
-    padding-bottom: calc(0vw / 100);
-    text-align: center;
-    font-size: calc(60vw / 100);
-    height: calc(120vw / 100); */
-    transition: 0.5s;
-    background-size: 200% auto;
-    color: white;
-    border-radius: calc(60vw / 100);
-    display: inline;
-    border: 0px;
-    font-weight: 500;
-    box-shadow: 0px 0px 14px -7px #f09819;
-    background-image: linear-gradient(45deg, #FF512F 0%, #F09819 51%, #FF512F 100%);
-    cursor: pointer;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-  }
-
-  button.pub_button:hover {
-    background-position: right center;
-    /* change the direction of the change here */
-    color: #fff;
-    text-decoration: none;
-  }
-
-  button.pub_button:active {
-    transform: scale(0.95);
-  }
-</style>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu.life) -->
 
-<button class="pub_button">🎯I'm looking for <u>full-time</u> positions! </button>
+<span class="pub_button recruitment-note">🎯I'm looking for <u>full-time</u> positions!</span>
 
 Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Princeton](https://www.princeton.edu/), advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). I was also a student researcher at *TikTok* and at *Meta*. Previously, I earned my Bachelor degree in Computer Science at [Zhejiang University](http://www.zju.edu.cn/english/).
 
@@ -69,6 +28,8 @@ Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Prince
 
 <!-- I hope to fully explore the breadth and depth of **safe, secure, robust, and reliable AI systems**. Specifically: -->
 
+{% comment %}
+Previous research overview, retained for reference.
 - I analyze and attack *safety / alignment / watermark* mechanisms in AI systems built upon LLMs, VLMs, and T2I models.
   - breaking security of text-to-image systems from end to end
   - benchmarking safety refusal & safety durability of LLMs
@@ -78,6 +39,9 @@ Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Prince
   - mid-training VLMs to enhance visual knowledge
   - fine-tuning VLMs for more robust safety detection
   - securing AI systems against data poisoning and backdoor attacks
+{% endcomment %}
+
+<p class="research-intro-copy"><strong class="research-focus">I work on AI safety and security.</strong> I am particularly interested in how models fail, how to evaluate them reliably, and how to improve their capabilities and safeguards -- across multimodal models and systems (current focus), language models, and learning systems.</p>
 
 <!--   
   - My current work focuses on breaking image watermarks💦
@@ -132,7 +96,7 @@ Hello, I am **Tinghao Xie 谢廷浩**, a final year ECE PhD candidate at [Prince
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 
 
-### Selected Research
+<h3 id="selected-research">Selected Research</h3>
 
 📖 [Red-teaming NSFW Image Classifiers as Text-to-Image Safeguards](https://aclanthology.org/2026.findings-acl.506/)
 <br/>
@@ -193,6 +157,10 @@ Xiangyu Qi\*, Yi Zeng\*, **Tinghao Xie\***, Pin-Yu Chen, Ruoxi Jia, Prateek Mitt
   <button class="pub_button">💻Github </button>
 </a>
 
+
+<p class="all-publications"><a href="{{ site.author.googlescholar }}">All publications <span aria-hidden="true">↗</span></a></p>
+
+{% include research-map.html %}
 
 <!-- ### Publications/Manuscripts -->
 
